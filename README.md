@@ -1,8 +1,4 @@
-# -FreeRTOS-Based-Sensor-Monitoring-System
 
-### **README: FreeRTOS-Based Sensor Monitoring System**
-
----
 
 ## **Project Overview**
 
