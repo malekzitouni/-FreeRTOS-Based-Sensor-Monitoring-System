@@ -150,3 +150,9 @@ This project is open-source under the MIT License. Feel free to modify and use i
 ---
 
 Enjoy building your **FreeRTOS-Based Sensor Monitoring System**! 🚀
+
+
+
+https://github.com/user-attachments/assets/1c75ed4d-c6dc-414c-b4b3-2edb110e4194
+
+
